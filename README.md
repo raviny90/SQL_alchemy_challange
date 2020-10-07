@@ -2,7 +2,7 @@
 
 ## Aloah!!
 ![](Hawaii.png)
-Open the Hawaii.png fine to imagine your vacation being spent in Hawaii
+Open the Hawaii.png file to imagine your vacation being spent in Hawaii!!
 
 # Please note:
 
