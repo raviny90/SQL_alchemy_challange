@@ -22,4 +22,4 @@
 
 4. The following two plots were completed as part of the bonus work trip temperatures and normal trip temperaures:
 
-![](GRAPH_3_TRIP_AVERAGE_TEMPERATURE_.png)
+![](GRAPH_3_TRIP_AVERAGE_TEMPERATURE_.png) 
