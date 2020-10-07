@@ -1,5 +1,8 @@
 # SQL_alchemy_challange
 
+![](Hawaii.png)
+
+
 # Please note:
 
 ## Section 1
@@ -10,9 +13,9 @@
 3. All plots generated are in the jupyter notebook, and also saved to the plots folder and linked below.
 
 
-![](SQL_alchemy_challange/GRAPH_1_PRCP_OVER_LAST_12_MONTHS_.png)
+![](GRAPH_1_PRCP_OVER_LAST_12_MONTHS_.png)
 
-![](SQL_alchemy_challange/GRAPH_2_TOBS_OVER_12_MONTHS_.png)
+![](GRAPH_2_TOBS_OVER_12_MONTHS_.png)
 
 
 ## Section 2
@@ -20,4 +23,4 @@
 
 4. The following two plots were completed as part of the bonus work trip temperatures and normal trip temperaures:
 
-![](SQL_alchemy_challange/GRAPH_3_TRIP_AVERAGE_TEMPERATURE_.png)
+![](GRAPH_3_TRIP_AVERAGE_TEMPERATURE_.png)
