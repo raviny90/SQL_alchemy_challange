@@ -1,5 +1,7 @@
 # SQL_alchemy_challange
 
+![](Hawaii.png)
+
 # Please note:
 
 ## Section 1
