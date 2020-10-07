@@ -1,6 +1,8 @@
 # SQL_alchemy_challange
 
+Aloah!!
 ![](Hawaii.png)
+Open the Hawaii.png fine to imagine your vacation being spent in Hawaii
 
 # Please note:
 
